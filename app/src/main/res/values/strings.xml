@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SbPractical</string>
+    <string name="loading_text">Getting more photos…</string>
+    <string name="error_text">An error has occurred whilst fetching more photos</string>
+    <string name="end_of_list">You have seen all our awesome photoes</string>
+</resources>
